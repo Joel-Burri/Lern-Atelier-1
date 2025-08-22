@@ -17,3 +17,5 @@ In dieser Lernperiode möchte ich mich intensiv mit dem aufbau und auch der Navi
 Mein Ziel ist es am Ender der Lernperiode dass ich Linux ohne grosse Probleme im Alltag nutzen könnte.
 
 ## 22.08.2025
+
+Heute habe ich die Einführung und Übungen für QV und LBs gemacht und meine Lernperiode verfasst.
