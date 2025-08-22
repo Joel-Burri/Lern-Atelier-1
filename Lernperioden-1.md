@@ -1,19 +1,19 @@
 # Lern-Periode 1
-Name: Joel Cedrick
+Name: Joel Cedric
 
 12.08.2025 bis 16.09.2025
 
 ## Grob-Planung
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Noten Akktuell unbekant. Mein Notenwunsch beträgt sicher die Note 5 zu erreichen bei jeglichen Modulen.
 
 ### Veränderungen
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+Dies ist die Erste Lernperiode. Ich möchte aber die Zeit die es bennötigt aufbringen. 
 
 ### Projekte / neue Technologien
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+In dieser Lernperiode möchte ich mich intensiv mit dem aufbau und auch der Navigation des File-system befassen.
 
 ### Generelle Ziele
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+Mein Ziel ist es am Ender der Lernperiode dass ich Linux ohne grosse Probleme im Alltag nutzen könnte.
 
-## 16.08.2024
+## 22.08.2025
