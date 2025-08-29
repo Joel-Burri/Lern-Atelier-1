@@ -12,9 +12,13 @@ Dies ist die Erste Lernperiode. Ich möchte aber die Zeit die es bennötigt aufb
 
 ### Projekte / neue Technologien
 In dieser Lernperiode möchte ich mich intensiv mit dem aufbau und auch der Navigation des File-system von Linux befassen.
+Arbeit an meinem Freifach in Cyber Securety.
+Erlernen neuer Programmiersprache Python.
 
 ### Generelle Ziele
 Mein Ziel ist es am Ender der Lernperiode dass ich Linux ohne grosse Probleme im Alltag nutzen könnte.
+Guter Fortschrit in Networking.
+Einfache Programme in Python
 
 ## 22.08.2025
 
