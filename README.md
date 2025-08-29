@@ -6,6 +6,6 @@
 3. Ich möchte das Gefühl haben ich war heute Produktiv.
 ## 28.08.2025
 ### Ziele
-1. Installation von Ubuntu linux über einen flashdrive.
-2. Aufseztn von Ubuntu Linux.
-3. Alltagfähiges Ubuntu Linux.
+1. Arbeiten an Networkacadamy
+2. Beginn mit Python zu Arbeiten
+3. Simpler Taschenrechner in Python 
