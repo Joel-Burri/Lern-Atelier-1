@@ -40,6 +40,8 @@ Heute habe ich die Einführung und Übungen für QV und LBs gemacht und meine Le
 1. Arbeiten an meinem Python Casino (Grundsätzliches Einsatztsystem)
 2. Vertieftes Python lernen
 3. Freude an Informatik haben (KA was ich schreiben soll)
+### Reflexion
+Einsatztsystem funtioniert doch der Loop nicht, ich habe ein bischen erfahrung gewonnen.
 ## 12.09.2025
 ### Ziele
 1. Arbeit an Python Projekt
