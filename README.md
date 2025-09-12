@@ -47,3 +47,11 @@ Einsatztsystem funtioniert doch der Loop nicht, ich habe ein bischen erfahrung g
 1. Arbeit an Python Projekt
 2. Neues spiel in Python machen
 3. Villeicht Networking
+### Reflexion
+Ich habe viel gelernt über funktionen in python und auch wie ich ein variable in einem .json file speichere.
+## 19.09.2025
+### Ziele
+1. Neues spiel (Blackjack)
+2. 
+3. 
+
