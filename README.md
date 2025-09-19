@@ -52,6 +52,8 @@ Ich habe viel gelernt über funktionen in python und auch wie ich ein variable i
 ## 19.09.2025
 ### Ziele
 1. Neues spiel (Blackjack)
-2. 
-3. 
+2. Fehler beheben im Einsatzsystem
+3. start einrichten für zum wählen welches spiel man spielen will
+   ### Reflexion
+  
 
