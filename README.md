@@ -54,6 +54,9 @@ Ich habe viel gelernt über funktionen in python und auch wie ich ein variable i
 1. Neues spiel (Blackjack)
 2. Fehler beheben im Einsatzsystem
 3. start einrichten für zum wählen welches spiel man spielen will
-   ### Reflexion
+### Reflexion des Tages
+Heute startete ich mit dem Blackjackspiel was meine ganze zeit frass und immernochnicht fertig ist da ich viel mit neuen elementen konfrontiert worden bin.
+## Lernperiode Reflexion
+Die Lernperiode habe ich nicht mit einem Taschenrechner verbracht sonder mit einem Casion das immer noch nicht fertig ist. Bezüglich linux ist es nicht wie erwünscht verlofen.
   
 
