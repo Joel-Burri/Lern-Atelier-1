@@ -18,7 +18,7 @@ Fertigstellen des Casinos in Python und mit Pygames ein GUI machen.
 Basics für C++ erlernen
 
 ## 17.09.2025
-###Tagesziele 
+### Tagesziele 
 1. An Modul_431 arbeiten
 2. Blackjack Dealer im Pycasino ausbessern (stand on 17)
 3. Informieren wie man Pygames anwendet
