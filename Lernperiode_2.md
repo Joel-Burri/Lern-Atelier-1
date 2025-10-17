@@ -23,4 +23,4 @@ Basics für C++ erlernen
 2. Blackjack Dealer im Pycasino ausbessern (stand on 17)
 3. Informieren wie man Pygames anwendet
 ### Tagesreflexion
-
+Ich habe Heute zwei Aufgaben des Moduls 431 lösenkönnen. Ich habe mich auch um den Aufbau und anwendung von Pygames befasst. Ich konnte leztendlich nich alles machen was mein Ziel war doch heute war eine Ausnahme aufgrund aufkommenden Prüfungen und Abgaben.
