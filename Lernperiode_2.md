@@ -25,7 +25,7 @@ Basics für C++ erlernen
 ### Tagesreflexion
 Ich habe Heute zwei Aufgaben des Moduls 431 lösenkönnen. Ich habe mich auch um den Aufbau und anwendung von Pygames befasst. Ich konnte leztendlich nich alles machen was mein Ziel war doch heute war eine Ausnahme aufgrund aufkommenden Prüfungen und Abgaben.
 
-## 23.10.2025
+## 24.10.2025
 ### Tagesziele
 1. Freifach Cyberscurity 3 Lektionen Arbeiten
 2. Projekt PyCasino beenden
