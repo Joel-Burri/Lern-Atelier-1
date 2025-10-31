@@ -51,4 +51,4 @@ Ich konnte Fortschritte im Bereich Cybersecurity erzielen und mehrere Übungen b
 - [x] Informationen über das Projekt vom Mittwoch einholen
 
 ### Tagesreflexion
-Ich habe das Schachspiel grundsätzlich fertig. Es gibt noch viele Probleme, zum Beispiel wird nicht angezeigt, wenn Schach ist, und die Promotion eines Bauern ist noch nicht möglich. Doch im Großen und Ganzen ist es recht gut geworden mit der GUI in Pygame. Informationen habe ich eingeholt, für das Projekt aus dem Unterricht, jedoch nicht das erhalten, was ich wollte.
+Ich habe das Schachspiel grundsätzlich fertig. Es gibt noch viele Probleme, zum Beispiel wird nicht angezeigt, wenn Schach ist, und die Promotion eines Bauern ist noch nicht möglich. Doch im Großen und Ganzen ist es recht gut geworden mit der GUI in Pygame. Informationen habe ich eingeholt, für das Projekt aus dem Unterricht, jedoch nicht das erhalten, was ich wollte. 
