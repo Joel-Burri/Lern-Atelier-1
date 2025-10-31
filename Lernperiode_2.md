@@ -34,3 +34,8 @@ Ich habe Heute zwei Aufgaben des Moduls 431 lösenkönnen. Ich habe mich auch um
 Ich konnte Fortschritte im Cybersecurity bereich erzilen und diverse übungen machen. Ich habe mein Blackjack game in Python fertiggestellt und schliesse dieses Projekt ab. Ich konnte leider nich mit Pygames anfangen doch ich mache es mir zum Ziel unter der Woch wenn ich Zerit finde einmal darauf zu schauen.
 ## 31.10.2025
 ### Tagesziele
+1. Schachspiel mit Pygames projektstart
+2. Cybersecurety weiterarbeiten
+3. Informieren über Projekt von Mittwoch
+### Tagesreflexion
+
