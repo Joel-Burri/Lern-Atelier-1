@@ -56,7 +56,8 @@ Ich habe das Schachspiel grundsätzlich fertig. Es gibt noch viele Probleme, zum
 ## 07.11.2025
 
 ### Tagesziele
-- [ ] Projektarbeit fortführen
+- [x] Projektarbeit fortführen
 - [ ] Freifachcybersecurity arbeiten
-- [ ] Vlt. Fehlerbehebung beim Schach Spiel
+- [x] Vlt. Fehlerbehebung beim Schach Spiel
 #### Tagesreflexion
+Beim Schachspiel gibt es immer noch Komponenten, die nicht funktionieren. Ich habe unter anderem mit Microsoft Forms gearbeitet und dadurch auch mehr C# gelernt. Dadurch arbeitete ich an unserem Projekt weiter. Die Grundlage ist eigentlich fertig, es gibt nur noch wenige Sachen zum hinzufügen.
