@@ -70,3 +70,11 @@ Beim Schachspiel gibt es immer noch Komponenten, die nicht funktionieren. Ich ha
 - [ ] Fehlende Aufgabe beim Modul 162 aufholen
 ### Tagesreflexion
 Ich habe nichts von meinen Zielen gemacht; stattdessen habe ich meine Festplatte neu partitioniert und einen gemeinsamen Speicher für mein neues Fedora-Linux-System eingerichtet. Auf Linux ist noch nichts konfiguriert, und es funktioniert nur mittelmässig. Am Wochenende werde ich noch Hyprland zum Laufen bringen und das System vollständig für schulischen Gebrauch umbauen – fürs Programmieren oder sonstiges.
+
+## 21.11.2025
+
+### Tagesziele
+- [ ] Projektarbeit
+- [ ] Aufholen von Aufträgen im Modul 162
+- [ ] Vlt. Cybersecurity freifach weiterarbeiten
+### Tagesreflexion 
