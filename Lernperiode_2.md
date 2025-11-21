@@ -74,7 +74,16 @@ Ich habe nichts von meinen Zielen gemacht; stattdessen habe ich meine Festplatte
 ## 21.11.2025
 
 ### Tagesziele
-- [ ] Projektarbeit
+- [x] Projektarbeit
 - [ ] Aufholen von Aufträgen im Modul 162
 - [ ] Vlt. Cybersecurity freifach weiterarbeiten
 ### Tagesreflexion 
+Heute habe ich intensiv an meinem Projekt gearbeitet und bin dabei sehr gut vorangekommen, vor allem dank der angenehmen und konzentrierten Arbeitsbedingungen. Ich konnte mich gut auf die einzelnen Schritte einlassen und hatte das Gefühl, echte Fortschritte zu machen. Dadurch wirkte die Arbeit nicht nur produktiv, sondern auch motivierend und zufriedenstellend.
+
+## 28.11.2025
+
+### Tagesziele
+- [ ] Cybersecurity freifach arbeiten
+- [ ] Nacharbeiten von Aufträgen im Modul 162
+- [ ] Konfiguration von arbeitsdesktop und aufräumen von unnützten daten.
+### Tagesreflexion
