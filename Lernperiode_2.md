@@ -87,3 +87,14 @@ Heute habe ich intensiv an meinem Projekt gearbeitet und bin dabei sehr gut vora
 - [ ] Nacharbeiten von Aufträgen im Modul 162
 - [x] Konfiguration von arbeitsdesktop und aufräumen von unnützten daten.
 ### Tagesreflexion
+Heute habe ich leider nicht viel umgesetzt, da es mir gesundheitlich nicht besonders gut ging und ich sehr müde war. Mir ist bewusst, dass das auf meine Kappe geht. Ich habe mir jedoch Java-Klassen und -Objekte angeschaut. Aufgaben aus dem Modul 162 habe ich keine gelöst, und im Freifach Cybersecurity habe ich ebenfalls nichts zustande gebracht.
+
+Bis zum nächsten Mal werde ich ein kleines eigenes GitHub-Repository anlegen und dort mit Java arbeiten. Mein Ziel ist es, eine Applikation zu entwickeln, mit der man verschiedene Dinge berechnen kann – zum Beispiel Luftdruck oder Abstände zwischen Breitengraden und Ähnliches.
+
+## 5.12.2025
+
+### Tagesziele
+- [ ] Java-Projekt arbeiten 
+- [ ] OBA für Modul 162 Erstellen
+- [ ] Evt. Nacharbeiten des Moduls 162
+### Tagesreflexion
