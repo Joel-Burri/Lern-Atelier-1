@@ -85,5 +85,5 @@ Heute habe ich intensiv an meinem Projekt gearbeitet und bin dabei sehr gut vora
 ### Tagesziele
 - [ ] Cybersecurity freifach arbeiten
 - [ ] Nacharbeiten von Aufträgen im Modul 162
-- [ ] Konfiguration von arbeitsdesktop und aufräumen von unnützten daten.
+- [x] Konfiguration von arbeitsdesktop und aufräumen von unnützten daten.
 ### Tagesreflexion
