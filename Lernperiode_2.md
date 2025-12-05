@@ -94,7 +94,7 @@ Bis zum nächsten Mal werde ich ein kleines eigenes GitHub-Repository anlegen un
 ## 5.12.2025
 
 ### Tagesziele
-- [ ] Aufgaben für Modul 162 Bearbeiten
+- [ ] Zusammenfassung des Themas für Test Modul 162
 - [ ] OBA für Modul 162 Erstellen
 - [ ] Evt. Nacharbeiten des Moduls 162
 ### Tagesreflexion
