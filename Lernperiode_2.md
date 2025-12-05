@@ -96,5 +96,14 @@ Bis zum nächsten Mal werde ich ein kleines eigenes GitHub-Repository anlegen un
 ### Tagesziele
 - [ ] Zusammenfassung des Themas für Test Modul 162
 - [ ] OBA für Modul 162 Erstellen
-- [ ] Evt. Nacharbeiten des Moduls 162
+- [x] Evt. Nacharbeiten des Moduls 162
+### Tagesreflexion
+Heute habe ich leider nicht besonders viel geschafft, aber ich konnte trotzdem ein wenig am Modul 162 weiterarbeiten. Dabei habe ich es geschafft, Rust zum Laufen zu bringen – und zu meiner Überraschung funktionierte es sogar direkt. Insgesamt war es kein sehr produktiver Tag, aber ich bin immerhin ein kleines Stück vorangekommen, und das fühlt sich trotzdem gut an.
+
+## 12.12.2025
+
+### Tagesziele
+- [ ] Rust Projekt starten$
+- [ ] Rust Lernen
+- [ ] Freifach Cybersecurity arbeiten
 ### Tagesreflexion
