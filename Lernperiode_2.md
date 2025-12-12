@@ -104,6 +104,15 @@ Heute habe ich leider nicht besonders viel geschafft, aber ich konnte trotzdem e
 
 ### Tagesziele
 - [ ] Rust Projekt starten
-- [ ] Rust Lernen
+- [x] Rust Lernen
 - [ ] Freifach Cybersecurity arbeiten
+### Tagesreflexion
+Ich habe die ganze Zeit damit verbracht, Rust zu lernen, und konnte bisher nur dieses Ziel erfüllen. Dabei habe ich gemerkt, dass Rust für mich deutlich komplizierter ist als andere Programmiersprachen wie Python oder C#. Ich hoffe jedoch, dass sich der Aufwand irgendwann auszahlen wird, auch wenn bis dahin noch viel Zeit vergehen wird.
+
+### 19.12.2025
+
+### Tagesziele
+- [ ] Rust Lernen
+- [ ] Rust Lernen
+- [ ] Rust Lernen
 ### Tagesreflexion
