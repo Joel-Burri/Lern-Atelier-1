@@ -103,7 +103,7 @@ Heute habe ich leider nicht besonders viel geschafft, aber ich konnte trotzdem e
 ## 12.12.2025
 
 ### Tagesziele
-- [ ] Rust Projekt starten$
+- [ ] Rust Projekt starten
 - [ ] Rust Lernen
 - [ ] Freifach Cybersecurity arbeiten
 ### Tagesreflexion
