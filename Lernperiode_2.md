@@ -116,3 +116,11 @@ Ich habe die ganze Zeit damit verbracht, Rust zu lernen, und konnte bisher nur d
 - [ ] Rust Lernen
 - [ ] Rust Lernen
 ### Tagesreflexion
+Ich habe aufgrund unerwarteter Fehler mit meinen Betriebssystemen absolut nichts umsetzen können. Sowohl Linux als auch Windows haben Probleme gemacht, weshalb ich Windows neu installieren musste. Danach gab es viele Schwierigkeiten mit den Treibern, sodass ich vieles mehrmals installieren und einrichten musste, bis überhaupt etwas funktioniert hat (typisch Windows).
+
+Jetzt läuft alles wieder einigermassen. Ich weiss zwar nicht, wie effizient das Ganze ist, aber es funktioniert – und das ist für heute das Wichtigste. Zusätzlich habe ich durch verschiedene Inputs Projektideen für die Ferien gefunden.
+
+## Lernperiodereflexion
+Naja, was soll ich sagen: Ich habe die Zeit komplett unterschätzt. Ich habe nicht mit C++ angefangen, dafür mit Rust. Ich habe mit Linux herumexperimentiert, was mässig gut lief. Dafür habe ich meine Python-Projekte fertiggestellt und sehr viel Neues gelernt.
+
+Ich weiss noch nicht, was in der nächsten Lernperiode alles auf mich zukommt, aber ich bin mir ziemlich sicher, dass etwas mit Rust dabei sein wird. Diese Lernperiode war wirklich schnell vorbei, und ich konnte meine Tagesziele fast nie vollständig umsetzen. Trotzdem freue ich mich auf die nächste.
