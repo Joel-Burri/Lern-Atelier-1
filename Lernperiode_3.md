@@ -10,6 +10,7 @@ Datum: 09.1.2026 bis 27.3.2026
 ### Noten
 319 = 5
 431 = 6
+162 = 5.5
 gut
 
 
@@ -26,3 +27,10 @@ Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode ler
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 - Rust lernen
 - Vim im alltag verwenden
+
+## 9.01.2026
+
+### Tagesziele
+- [ ] Neovim mit LazyVim oder NvChad einrichten
+- [ ] Rust-Projekt starten
+- [ ] Neue Rust-Komponenten lernen
