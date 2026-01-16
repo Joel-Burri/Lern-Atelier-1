@@ -41,8 +41,11 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 ## 16.01.2026
 
 ### Tagesziele
-- [ ] Nacharbeiten Modul 162
+- [ ] Nacharbeiten Modul 117
 - [ ] Nacharbeiten Modul 164
 - [ ] Rust weiter Lernen
 
 ### Tagesreflexion
+Ich habe es leider letztes Mal nicht geschafft, eine Reflexion zu schreiben. Ich weiss selbst nicht genau, warum.
+Heute habe ich im Modul 117 nachgearbeitet, da ich die ganze Woche krank war. Ich konnte nicht sehr viel erledigen, da ich noch angeschlagen war und zu wenig Schlaf hatte.
+Rust sowie das Modul 164 habe ich nicht geschafft. Immerhin bin ich im Modul 117 nun dort, wo wir sein sollten. Die Leistung ist zwar mangelhaft, für meinen aktuellen Zustand jedoch angemessen.
