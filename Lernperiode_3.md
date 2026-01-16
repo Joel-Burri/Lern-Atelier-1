@@ -34,3 +34,15 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 - [ ] Neovim mit LazyVim oder NvChad einrichten
 - [ ] Rust-Projekt starten
 - [ ] Neue Rust-Komponenten lernen
+
+### Tagesreflexxion
+-
+
+## 16.01.2026
+
+### Tagesziele
+- [ ] Nacharbeiten Modul 162
+- [ ] Nacharbeiten Modul 164
+- [ ] Rust weiter Lernen
+
+### Tagesreflexion
