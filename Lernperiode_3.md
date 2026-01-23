@@ -54,6 +54,9 @@ Rust sowie das Modul 164 habe ich nicht geschafft. Immerhin bin ich im Modul 117
 
 ### Tagesziele
 
-- [ ] Rust Lernen
+- [x] Rust Lernen
 - [ ] evt. Schauen was die BBB für microcontroller hat
 - [ ] offen
+
+### Tagesreflexio
+Heute habe ich ein bisschen C gelernt, ich weiss selber nicht warum. Dann habe ich ein bisschen an Rust gearbeitet. Danach hat uns Herr Thut (mir und Edim) etwas über funktionale Programmierung erklärt, was sehr spannend war und eine Idee für ein neues Projekt sein könnte.
