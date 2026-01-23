@@ -55,5 +55,5 @@ Rust sowie das Modul 164 habe ich nicht geschafft. Immerhin bin ich im Modul 117
 ### Tagesziele
 
 - [ ] Rust Lernen
-- [ ] offen
+- [ ] evt. Schauen was die BBB für microcontroller hat
 - [ ] offen
