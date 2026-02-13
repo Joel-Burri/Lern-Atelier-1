@@ -65,8 +65,19 @@ Heute habe ich ein bisschen C gelernt, ich weiss selber nicht warum. Dann habe i
 
 ### Tagesziele
 
-- [ ] Modul 117
+- [x] Modul 117
 - [ ] Rust Lernen
 - [ ] evt NetAcad arbeiten
+
+### Tagesreflexion
+Heute habe ich mittelmässig gearbeitet. Ich habe mich mit dem Stockfish-Sourcecode auseinandergesetzt und mit Schach-Engines herumexperimentiert. Dabei habe ich viel gelernt. Ausserdem habe ich am Modul 117 gearbeitet, dort zwei Abgaben fertig gemacht und zwei Kurztests erledigt.
+
+## 20.02.2026
+
+### Tagesziele
+
+- [ ] NetAcad arbeiten
+- [ ] Weiterarbeiten mit Engines
+- [ ] C oder Rust lernen
 
 ### Tagesreflexion
