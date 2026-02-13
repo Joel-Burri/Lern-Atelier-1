@@ -50,7 +50,7 @@ Ich habe es leider letztes Mal nicht geschafft, eine Reflexion zu schreiben. Ich
 Heute habe ich im Modul 117 nachgearbeitet, da ich die ganze Woche krank war. Ich konnte nicht sehr viel erledigen, da ich noch angeschlagen war und zu wenig Schlaf hatte.
 Rust sowie das Modul 164 habe ich nicht geschafft. Immerhin bin ich im Modul 117 nun dort, wo wir sein sollten. Die Leistung ist zwar mangelhaft, für meinen aktuellen Zustand jedoch angemessen.
 
-## 23.02.2026
+## 23.01.2026
 
 ### Tagesziele
 
@@ -60,3 +60,13 @@ Rust sowie das Modul 164 habe ich nicht geschafft. Immerhin bin ich im Modul 117
 
 ### Tagesreflexio
 Heute habe ich ein bisschen C gelernt, ich weiss selber nicht warum. Dann habe ich ein bisschen an Rust gearbeitet. Danach hat uns Herr Thut (mir und Edim) etwas über funktionale Programmierung erklärt, was sehr spannend war und eine Idee für ein neues Projekt sein könnte.
+
+## 13.02.2026
+
+### Tagesziele
+
+- [ ] Modul 117
+- [ ] Rust Lernen
+- [ ] evt NetAcad arbeiten
+
+### Tagesreflexion
