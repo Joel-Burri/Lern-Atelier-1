@@ -81,3 +81,12 @@ Heute habe ich mittelmässig gearbeitet. Ich habe mich mit dem Stockfish-Sourcec
 - [ ] C oder Rust lernen
 
 ### Tagesreflexion
+Ich habe heute nichts von meinen Tageszielen erfüllt, da ich mit meiner Gruppe im Netzwerklabor gearbeitet habe. Später habe ich noch mit einem Arduino und den LEDs herumexperimentiert. Ich versuche, die Ziele beim nächsten Mal umzusetzen.
+
+## 27.02.2026
+
+### Tagesziele
+
+- [ ] NetAcad arbeiten
+- [ ] Weiterarbeiten mit Engines
+- [ ] C oder Rust lernen
