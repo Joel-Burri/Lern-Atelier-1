@@ -90,3 +90,16 @@ Ich habe heute nichts von meinen Tageszielen erfüllt, da ich mit meiner Gruppe 
 - [ ] NetAcad arbeiten
 - [ ] Weiterarbeiten mit Engines
 - [ ] C oder Rust lernen
+
+### Tagesreflexion 
+Ich war am Ski fahren.
+
+## 06.03.2025
+
+### Tagesziele
+- [ ] NetAcad arbeiten
+- [ ] Weiterarbeiten mit Engines
+- [ ] C oder Rust lernen
+
+### Tagesreflexion
+ 
