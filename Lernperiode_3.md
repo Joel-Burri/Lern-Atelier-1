@@ -99,7 +99,8 @@ Ich war am Ski fahren.
 ### Tagesziele
 - [ ] NetAcad arbeiten
 - [ ] Weiterarbeiten mit Engines
-- [ ] C oder Rust lernen
+- [x] C oder Rust lernen
 
 ### Tagesreflexion
- 
+Heute habe ich ein bisschen mit C herumexperimentiert. Ich habe ein Schere-Stein-Papier-Spiel gemacht. Besonders war, dass ich heute mit `switch` und `case` experimentiert habe, was ich vorher noch nie gemacht hatte – also mal etwas Neues. Mit Schach-Engines habe ich heute leider nicht so viel gemacht.
+
