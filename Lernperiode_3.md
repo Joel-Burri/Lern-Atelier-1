@@ -107,6 +107,13 @@ Heute habe ich ein bisschen mit C herumexperimentiert. Ich habe ein Schere-Stein
 ## 13.03.2026
 
 ### Tagesziele
-- [ ] Start neues Projekt
+- [x] Start neues Projekt
 - [ ] 
 
+### Tagesreflexion
+Der heutige Tag verlief sehr gut. Ich habe mein Projekt in C gestartet – ein Projekt, das mit unserem aktuellen Thema in Geographie zusammenhängt: ein Programm, das alle meteorologischen Einheiten des Steigungsregens berechnet. Dafür werden viel mehr Formeln benötigt, als ich dachte.
+
+## 20.03.2026
+
+### Tagesziele
+- [ ] Projektarbeit
