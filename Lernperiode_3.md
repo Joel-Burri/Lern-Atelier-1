@@ -116,4 +116,13 @@ Der heutige Tag verlief sehr gut. Ich habe mein Projekt in C gestartet – ein P
 ## 20.03.2026
 
 ### Tagesziele
-- [ ] Projektarbeit
+- [x] Projektarbeit
+
+### Tagesreflexion
+Heute war ich nicht so produktiv. Das muss daran liegen, dass ich mich immer wieder ablenken liess. Ich habe mir vor allem Gedanken darüber gemacht, was als Nächstes erledigt werden muss und wie ich das umsetzen kann. Ausserdem habe ich nach mathematischen Formeln gesucht, die das beschreiben, was ich erreichen möchte. 
+
+## 27.03.2026
+### Tagesziele
+- [ ] Funktion mit gegebener start und end Höhe
+- [ ] Nutzereingabe
+- [ ] Vlt. start mit Graphen
